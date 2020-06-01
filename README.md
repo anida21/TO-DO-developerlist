@@ -1,4 +1,4 @@
-# TO-DO-developerlist
+# TO-DO-developer list(with admin and user page)
 Php,Html,Css
 
 # Pokretanje:
